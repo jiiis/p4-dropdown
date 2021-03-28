@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="sc-bdfBwQ iPcBUy"
+>
+  <form>
+    <label
+      htmlFor="option-search-text-field"
+    >
+      Search options
+    </label>
+    <input
+      data-testid="option-search-text-field"
+      id="option-search-text-field"
+      name="option-search-text-field"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+  </form>
+  <ul
+    data-testid="visible-option-list"
+  >
+    <li
+      onClick={[Function]}
+    >
+      China
+    </li>
+    <li
+      onClick={[Function]}
+    >
+      United States
+    </li>
+    <li
+      onClick={[Function]}
+    >
+      Japan
+    </li>
+  </ul>
+</div>
+`;
